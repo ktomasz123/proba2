@@ -1,6 +1,6 @@
 import javax.swing.JFrame;
 
-public class RbCelsiusToFarenheit {
+public class RbCelsiusToFarenheit implements {
 
 	JFrame myWindow;
 	
